@@ -1,0 +1,8 @@
+interface:
+  display_name: "前端架构设计"
+  short_description: "编码前规划 frontend architecture、技术选型、目录结构和 MVP 范围。"
+  brand_color: "#3B82F6"
+  default_prompt: "使用 frontend-architecture-designer 为这个前端项目做编码前架构规划。"
+
+policy:
+  allow_implicit_invocation: true
